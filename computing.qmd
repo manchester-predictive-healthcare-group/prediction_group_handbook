@@ -1,0 +1,4 @@
+-   HPC - link to research IT, update doc showing how to use CSF?
+-   list some common data sources we use, e.g. CPRD, BioBank
+- training for data e.g. online MRC course 
+- importance of understanding and adhering to data protection guidance

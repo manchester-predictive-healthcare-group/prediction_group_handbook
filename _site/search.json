@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "UoM Prediction Modelling and Causal Inference Group Handbook",
+    "section": "",
+    "text": "Here are useful resources for students and researchers: \n\nPGR students - link to DA\nRA training - link to ResDev\nlecturers - link to ADP\nlink to prognosis research website\nexternal training - Birmingham prediction course, simulation study & missing data courses at UCL, causal inference course at Leeds",
+    "crumbs": [
+      "Resources & Training"
+    ]
+  },
+  {
+    "objectID": "lab_culture.html",
+    "href": "lab_culture.html",
+    "title": "UoM Prediction Modelling and Causal Inference Group Handbook",
+    "section": "",
+    "text": "Working hours\nRegular meetings - prediction group meetings and Division open meetings\nCommunication e.g. Teams space\nengagement/ remote working",
+    "crumbs": [
+      "Lab Culture & Working Environment"
+    ]
+  },
+  {
+    "objectID": "funding.html",
+    "href": "funding.html",
+    "title": "UoM Prediction Modelling and Causal Inference Group Handbook",
+    "section": "",
+    "text": "common funding bodies - MRC/EPSRC/NIHR etc\nspecific programmes - e.g. BMBR\nfellowships - internal e.g. Deans prize, and external ECR opportunities",
+    "crumbs": [
+      "Funding"
+    ]
+  },
+  {
+    "objectID": "code_reprod.html",
+    "href": "code_reprod.html",
+    "title": "UoM Prediction Modelling and Causal Inference Group Handbook",
+    "section": "",
+    "text": "github repos\nregistering studies/protocols - OSF\nreporting guidelines - e.g. tripod\npreprints",
+    "crumbs": [
+      "Coding & Reproducible Research"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "computing.html",
+    "href": "computing.html",
+    "title": "UoM Prediction Modelling and Causal Inference Group Handbook",
+    "section": "",
+    "text": "HPC - link to research IT, update doc showing how to use CSF?\nlist some common data sources we use, e.g. CPRD, BioBank\ntraining for data e.g. online MRC course\nimportance of understanding and adhering to data protection guidance",
+    "crumbs": [
+      "Data & HPC"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This is the lab handbook for the Prediction Modelling and Causal Inference research group at the University of Manchester. The aim of the handbook is to provide information for researchers and students within the group. For more general information about the research group please see our group website here.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "pubs_confs.html",
+    "href": "pubs_confs.html",
+    "title": "UoM Prediction Modelling and Causal Inference Group Handbook",
+    "section": "",
+    "text": "authorship - link to IJCME recs\nopen access - link to library OA page\nconferences - list common conferences attended by group e.g. YSM, RSS, ISCB, Memtab. link to dissemination fund page for RA’s\ninclude note about predatory journals/ fake conferences - speak to supervisor if unsure if something’s legit",
+    "crumbs": [
+      "Publications & Dissemination"
+    ]
+  }
+]

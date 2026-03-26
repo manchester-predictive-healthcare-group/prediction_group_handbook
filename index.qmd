@@ -1,0 +1,5 @@
+---
+title: "Introduction"
+---
+
+This is the lab handbook for the Prediction Modelling and Causal Inference research group at the University of Manchester. The aim of the handbook is to provide information for researchers and students within the group. For more general information about the research group please see our [group website here.](https://manchester-predictive-healthcare-group.github.io/)

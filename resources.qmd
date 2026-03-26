@@ -1,0 +1,11 @@
+
+Here are useful resources for students and researchers: <br>
+
+
+* PGR students - link to DA
+
+* RA training - link to ResDev
+
+* lecturers - link to ADP
+* link to prognosis research website
+* external training - Birmingham prediction course, simulation study & missing data courses at UCL, causal inference course at Leeds

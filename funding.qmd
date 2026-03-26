@@ -1,0 +1,4 @@
+
+* common funding bodies - MRC/EPSRC/NIHR etc 
+* specific programmes - e.g. BMBR
+* fellowships - internal e.g. Deans prize, and external ECR opportunities
