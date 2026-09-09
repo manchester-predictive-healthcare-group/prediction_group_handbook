@@ -22,9 +22,9 @@
   {
     "objectID": "funding.html",
     "href": "funding.html",
-    "title": "UoM Prediction Modelling and Causal Inference Group Handbook",
+    "title": "Funding",
     "section": "",
-    "text": "common funding bodies - MRC/EPSRC/NIHR etc\nspecific programmes - e.g. BMBR\nfellowships - internal e.g. Deans prize, and external ECR opportunities\n\nnewsletter for funding opps?",
+    "text": "Funding\nThis page will contain details of common funding sources, including for project grants and fellowships.",
     "crumbs": [
       "Funding"
     ]
@@ -32,9 +32,9 @@
   {
     "objectID": "code_reprod.html",
     "href": "code_reprod.html",
-    "title": "UoM Prediction Modelling and Causal Inference Group Handbook",
+    "title": "Open and Reproducible Research",
     "section": "",
-    "text": "github repos\nregistering studies/protocols - OSF\nreporting guidelines - e.g. tripod\npreprints",
+    "text": "Open and Reproducible Research\nThis page will contain information about how we can conduct our research in an open and reproducible manner. This will include using Github for version control and code sharing, registering study protocols and analysis plans online prior to starting a new research project, and the use of reporting guidelines.",
     "crumbs": [
       "Coding and Reproducible Research"
     ]
@@ -49,9 +49,9 @@
   {
     "objectID": "computing.html",
     "href": "computing.html",
-    "title": "Data Access, Data Storage and Computing Resources",
+    "title": "Data Access, Data Storage, and Computing Resources",
     "section": "",
-    "text": "Data Access, Data Storage and Computing Resources\n-HPC - link to research IT, update doc showing how to use CSF? - list some common data sources we use, e.g. CPRD, BioBank - training for data e.g. online MRC course - importance of understanding and adhering to data protection guidance",
+    "text": "Data Access, Data Storage, and Computing Resources\nThis page will contain information about how to access data from different sources, storing data securely and how to access the University’s computing resources. Most of us in the group work with highly sensitive data from electronic health records, disease registries and national biobanks. When accessing these types of data it is vital that the confidentiality and privacy of those within the datasets is preserved by following information governance guidance.\n\nData Access\nSome common data sources used by the group include CPRD, SAIL and UK Biobank. Accessing the data through These large sources usually includes writing a protocol or analysis plan then applying for access which must be approved by the organisation. Once a project has been approved users may have to complete some training before access is granted. Most organisations have now moved to providing access to data through a Trusted Research Environment (TRE), where all analysis is done within the TRE and there are restrictions on what can be exported. The process of getting approval for projects and accessing data can take a long time. It is important if you are planning on using any of these data sources that you account for this in your project plans and make sure you include time for any necessary training.\nFor other projects you may have access to data which is shared directly with you. In this case you are responsible for ensuring that data is kept securely in accordance with any data sharing agreement. The University provides a few options for storing data, which are detailed below.\n\n\nData Storage\nThe University provides Research Data Storage (RDS) through the Research IT service. Information about how this is here.\n\n\nHigh Performance Computing\nResearch IT also provide High Performance Computing (HPC) services, for projects that may be computationally intensive. There are two main services, the CSF and iCSF. They do offer training courses on how to use these, details can be found here. If you are having issues using these services then you should contact Research IT through the Connect portal, or they hold online drop-in sessions every other Wednesday.",
     "crumbs": [
       "Data and HPC"
     ]
