@@ -13,12 +13,12 @@ website:
         file: lab_culture.qmd
       - text: "Resources and Training"
         file: resources.qmd
-      - text: "Data and HPC"
-        file: computing.qmd
-      - text: "Coding and Reproducible Research"
-        file: code_reprod.qmd
       - text: "Publications and Dissemination"
         file: pubs_confs.qmd
+      - text: "Coding and Reproducible Research"
+        file: code_reprod.qmd
+      - text: "Data and HPC"
+        file: computing.qmd
       - text: "Funding"
         file: funding.qmd
 

@@ -30,7 +30,6 @@ You will often require feedback from other colleagues (or your supervisor/line m
 -   Share documents using shared folders in OneDrive/SharePoint, rather than attaching them to emails. This helps with version control, especially when multiple people are commenting and editing.
 -   You should always set a deadline for when you want the feedback returned, including with more senior colleagues. A reasonable deadline is two weeks. Longer deadlines may be required over holiday times and for long documents. If you will need something turned around faster, it is good to prepare people ahead of time for this (e.g., “I will share a draft paper two weeks on Monday and will need the feedback on Friday”).
 
-
 ### Use of Generative/Agentic AI tools (e.g., Microsoft CoPilot)
 
 Use of AI in research is a fast-developing and controversial topic. Even within the group, there is a divergence of views on how it should be used. Some general principles:
@@ -44,7 +43,6 @@ Use of AI in research is a fast-developing and controversial topic. Even within 
 -   Remember that Microsoft Copilot is preferred for use as data placed in Copilot is protected (stays within university file systems). The University is in the process of rolling out Copilot licences to [all staff and students.](https://livemanchesterac.sharepoint.com/sites/UOM-ITS-Copilot)
 
 The University has developed guidelines for staff and students using or developing AI. These can be found in the [PGR Code of Practice](https://www.staffnet.manchester.ac.uk/rbe/rdrd/code/) and the [Staff AI Hub](https://www.staffnet.manchester.ac.uk/ai-hub/guidelines/). The guidelines include five principles of appropriate AI use which all staff and students are personally responsible for adhering to, as well as guidance on how to apply these principles to teaching and research.
-
 
 ### Group meetings and socials
 
