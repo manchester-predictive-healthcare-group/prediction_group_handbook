@@ -2,4 +2,4 @@
 title: "Introduction"
 ---
 
-This is the lab handbook for the Prediction Modelling and Causal Inference research group at the University of Manchester. The aim of the handbook is to provide information for researchers and students within the group. For more general information about the research group please see our [group website here.](https://manchester-predictive-healthcare-group.github.io/)
+This is the handbook for the Prediction Modelling and Causal Inference research group (aka One Prediction) at the University of Manchester. The aim of the handbook is to provide information for researchers and students working within the group. For more general information about the research group please see the main [group website here.](https://manchester-predictive-healthcare-group.github.io/) The handbook was put together by Siân Bladon and Lana Lai, with input from all group members!

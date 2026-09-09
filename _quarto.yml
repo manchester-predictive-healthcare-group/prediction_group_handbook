@@ -9,15 +9,15 @@ website:
     contents:
       - text: "Home"
         file: index.qmd
-      - text: "Lab Culture & Working Environment"
+      - text: "Research Group Culture and Working Environment"
         file: lab_culture.qmd
-      - text: "Resources & Training"
+      - text: "Resources and Training"
         file: resources.qmd
-      - text: "Data & HPC"
+      - text: "Data and HPC"
         file: computing.qmd
-      - text: "Coding & Reproducible Research"
+      - text: "Coding and Reproducible Research"
         file: code_reprod.qmd
-      - text: "Publications & Dissemination"
+      - text: "Publications and Dissemination"
         file: pubs_confs.qmd
       - text: "Funding"
         file: funding.qmd
